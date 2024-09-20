@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Engineering Group",
+    "section": "",
+    "text": "We now have around 30 members, including from the JGI, ACRC, Research IT, Bristol Centre for Supercomputing, LEAP digital health hub, and embedded researchers across the University."
+  },
+  {
+    "objectID": "index.html#how-to-get-involved",
+    "href": "index.html#how-to-get-involved",
+    "title": "Research Engineering Group",
+    "section": "How to get involved",
+    "text": "How to get involved\n\nSlack channel #bristol-rse on the UK RSE slack instance. If you aren’t a member then please sign up and email for an invite to the channel. We’d like to encourage use of this for peer-support (and cat photos!) The UK RSE slack also brings together the UK-wide RSE + friends community. If you’re new, then there are lots of helpful channels on this Slack instance and it’s a very active community.\nMailing list grp-ResearchEngineering which also has a group calendar for our meetings (and somewhere to store all the documents linked to below).\nGroup meetings (optional) hybrid in Royal Fort House every two weeks, currently Wednesday mornings.\nResearch computing training for data science and RSE. Self-led courses on GitHub plus we run in-person and online courses during the year. Volunteer helpers welcome!\nReading group - currently reading Statistical Rethinking by Richard McElreath, hybrid in Royal Fort House and on MS Teams, roughly every two weeks.\nToday I Learned (TIL) GitHub repo – for making interesting things we talk about on Slack more permanent, with minimal fuss. See the ‘contributing TILs’ for instructions.\nData Science Handbook GitHub website – in development and contributions welcome!"
+  },
+  {
+    "objectID": "index.html#also-from-the-jgi",
+    "href": "index.html#also-from-the-jgi",
+    "title": "Research Engineering Group",
+    "section": "Also from the JGI",
+    "text": "Also from the JGI\n\nData Ethics Club online journal club about doing data science ethically, every two weeks.\nAlan Turing Institute liaison academics linking us to the wider Turing network and interest groups, for example."
+  }
+]
