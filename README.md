@@ -15,3 +15,9 @@ We use [Quarto](https://quarto.org/) to build the website, and this happens auto
 ```bash
 quarto preview
 ```
+
+## License
+
+This content is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless specified otherwise.
+
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
