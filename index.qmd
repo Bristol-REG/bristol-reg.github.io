@@ -1,6 +1,6 @@
 ---
 title: Research Engineering Group
-subtitle: The Research Engineering Group includes interdisciplinary data scientists, research software engineers, research infrastructure engineers, data engineers and friends at the University of Bristol.
+subtitle: The Research Engineering Group is a **community of practice** at the University of Bristol. It includes interdisciplinary data scientists, research software engineers, research infrastructure engineers, data engineers and friends.
 toc: true
 toc-location: left
 ---
@@ -9,9 +9,11 @@ We now have around 30 members, including from the [JGI](https://www.bristol.ac.u
 
 ## How to get involved
 
-* **Slack channel** [#bristol-rse](https://ukrse.slack.com/archives/GUJK4P918) on the UK RSE slack instance. If you aren’t a member then please [sign up](https://ukrse.slack.com/signup?redir=%2Farchives%2FGUJK4P918%3Fname%3DGUJK4P918#/domain-signup) and email for an invite to the channel. We’d like to encourage use of this for peer-support (and cat photos!) The UK RSE slack also brings together the UK-wide RSE + friends community. If you're new, then there are lots of helpful channels on this Slack instance and it's a very active community.
+Our main communication via the **Slack channel** [#bristol-rse](https://ukrse.slack.com/archives/GUJK4P918) on the UK RSE slack instance. If you aren’t a member then please [sign up to Slack](https://ukrse.slack.com/signup?redir=%2Farchives%2FGUJK4P918%3Fname%3DGUJK4P918#/domain-signup) and [email us](mailto:ask-jgi@bristol.ac.uk) for an invite to the channel. We’d like to encourage use of this for peer-support (and cat photos!) The UK RSE slack also brings together the UK-wide RSE + friends community. If you're new, then there are lots of helpful channels on this Slack instance and it's a very active community.
 
-* **Mailing list** [grp-ResearchEngineering](https://outlook.office.com/groups/groups.bristol.ac.uk/grp-ResearchEngineering/mail) which also has a group calendar for our meetings (and somewhere to store all the documents linked to below).
+We also have:
+
+* **Mailing list** [grp-ResearchEngineering](https://outlook.office.com/groups/groups.bristol.ac.uk/grp-ResearchEngineering/mail) which also has a group calendar for our meetings (and somewhere to store all the documents linked to below). We'll add you to this at the same time as the Slack channel.
 
 * **Group meetings** (optional) hybrid in Royal Fort House every two weeks, currently Wednesday mornings.
 
@@ -28,3 +30,7 @@ We now have around 30 members, including from the [JGI](https://www.bristol.ac.u
 * **Data Ethics Club** online [journal club](https://dataethicsclub.com/) about doing data science ethically, every two weeks.
 
 * **Alan Turing Institute** [liaison academics](https://bristol.ac.uk/golding/turing-institute/) linking us to the wider Turing network and interest groups, for example.
+
+## Contact
+
+You can email us via <ask-jgi@bristol.ac.uk>. Include in your email that you're interested in joining REG.
