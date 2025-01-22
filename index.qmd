@@ -5,11 +5,11 @@ toc: true
 toc-location: left
 ---
 
-We now have around 30 members, including from the [JGI](https://www.bristol.ac.uk/golding/), [ACRC](https://www.bristol.ac.uk/acrc/), [Research IT](https://www.bristol.ac.uk/research-it/), [Bristol Centre for Supercomputing](https://isambard.ac.uk/), [LEAP digital health hub](https://leap-hub.ac.uk/), and embedded researchers across the University.
+We now have over 30 members, including from the [JGI](https://www.bristol.ac.uk/golding/), [ACRC](https://www.bristol.ac.uk/acrc/), [Research IT](https://www.bristol.ac.uk/research-it/), [Bristol Centre for Supercomputing](https://isambard.ac.uk/), [LEAP digital health hub](https://leap-hub.ac.uk/), and embedded researchers across the University.
 
 ## How to get involved
 
-Our main communication via the **Slack channel** [#bristol-rse](https://ukrse.slack.com/archives/GUJK4P918) on the UK RSE slack instance. If you aren’t a member then please [sign up to Slack](https://ukrse.slack.com/signup?redir=%2Farchives%2FGUJK4P918%3Fname%3DGUJK4P918#/domain-signup) and [email us](mailto:ask-jgi@bristol.ac.uk) for an invite to the channel. We’d like to encourage use of this for peer-support (and cat photos!) The UK RSE slack also brings together the UK-wide RSE + friends community. If you're new, then there are lots of helpful channels on this Slack instance and it's a very active community.
+Our main communication via the **Slack channel** [#bristol-reg](https://ukrse.slack.com/archives/GUJK4P918) on the UK RSE slack instance. If you aren’t a member then please [sign up to Slack](https://ukrse.slack.com/signup?redir=%2Farchives%2FGUJK4P918%3Fname%3DGUJK4P918#/domain-signup) and [email us](mailto:ask-jgi@bristol.ac.uk) for an invite to the channel. We’d like to encourage use of this for peer-support (and cat photos!) The UK RSE slack also brings together the UK-wide RSE + friends community. If you're new, then there are lots of helpful channels on this Slack instance and it's a very active community.
 
 We also have:
 
