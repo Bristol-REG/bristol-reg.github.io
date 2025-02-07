@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Research Engineering Group at the University of Bristol</title>
+<title>How to get involved with REG</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,8 +25,6 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <link href="./assets/favicon.svg" rel="icon" type="image/svg+xml">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -52,69 +50,11 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-page-links .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-page-links'] = new List('listing-page-links', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
-<body class="nav-sidebar floating nav-fixed hide-bar-after-lead">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -134,7 +74,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">About our group</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./join.html">Join our group</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -148,13 +88,13 @@ window.Quarto = {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">About our group</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./join.html" class="sidebar-item-text sidebar-link">
+  <a href="./join.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Join our group</span></a>
   </div>
 </li>
@@ -181,8 +121,8 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Research Engineering Group at the University of Bristol</h1>
-<p class="subtitle lead">The Research Engineering Group is a <strong>community of practice</strong> at the University of Bristol. It includes interdisciplinary data scientists, research software engineers, research infrastructure engineers, data engineers and friends.</p>
+<h1 class="title">How to get involved with REG</h1>
+<p class="subtitle lead">Our main communication is via our Slack channel, <code>#bristol-reg</code>, on the UK RSE Slack instance.</p>
 </div>
 
 
@@ -199,78 +139,36 @@ window.Quarto = {
 </header>
 
 
-<div id="listing-page-links" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1738949823733" data-listing-reading-time-sort="2" data-listing-word-count-sort="248">
-<a href="./join.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="assets/photo-team.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Join our group
-</h5>
-<div class="card-text listing-description">
-Join our Slack channel or get involved with our other activities.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1">
-<a href="https://bristol-training.github.io" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="assets/photo-training.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Training courses
-</h5>
-<div class="card-text listing-description">
-We provide free training workshops to all University of Bristol staff and students.
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1738949823733" data-listing-reading-time-sort="1" data-listing-word-count-sort="15">
-<a href="./contact.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="assets/contact-icon.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Contact us
-</h5>
-<div class="card-text listing-description">
-Find out more about what we do.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-<p>We have over 30 members, including from the <a href="https://www.bristol.ac.uk/golding/">Jean Golding Institute</a>, <a href="https://www.bristol.ac.uk/acrc/">Advanced Computing Research Centre</a>, <a href="https://www.bristol.ac.uk/research-it/">Research IT</a>, <a href="https://isambard.ac.uk/">Bristol Centre for Supercomputing</a>, <a href="https://leap-hub.ac.uk/">LEAP Digital Health Hub</a>, and embedded researchers across the University.</p>
+<section id="join-our-slack-channel" class="level2">
+<h2 class="anchored" data-anchor-id="join-our-slack-channel">Join our Slack channel</h2>
+<p>To join:</p>
+<ol type="1">
+<li><a href="https://ukrse.slack.com/signup?redir=%2Farchives%2FGUJK4P918%3Fname%3DGUJK4P918#/domain-signup">Sign up to the UK RSE Slack instance</a>.</li>
+<li>Once you have signed up, <a href="mailto:ask-jgi@bristol.ac.uk?subject=I'd%20like%20to%20join%20REG">email us for an invite to the <code>#bristol-reg</code> channel</a>.</li>
+</ol>
+<p>We’d like to encourage use of the Slack for peer-to-peer support (and cat photos!)</p>
+<p>The UK RSE slack also brings together the UK-wide RSE and friends community. If you’re new, then there are lots of helpful channels on this Slack instance and it’s a very active community.</p>
+</section>
+<section id="other-ways-to-get-involved" class="level2">
+<h2 class="anchored" data-anchor-id="other-ways-to-get-involved">Other ways to get involved</h2>
+<ul>
+<li><p><strong>Mailing list</strong> <a href="https://outlook.office.com/groups/groups.bristol.ac.uk/grp-ResearchEngineering/mail">grp-ResearchEngineering</a> which also has a group calendar for our meetings (and somewhere to store all the documents linked to below). We’ll add you to this at the same time as the Slack channel.</p></li>
+<li><p><strong>Group meetings</strong> (optional) hybrid in Royal Fort House on the last Tuesday of every month, usually 3-4pm.</p></li>
+<li><p><strong>Research computing training</strong> for data science and RSE. <a href="https://bristol-training.github.io/courses.html">Self-led courses on GitHub</a> plus <a href="https://bristol-training.github.io/upcoming.html">we run in-person and online courses during the year</a>. Volunteer helpers welcome!</p></li>
+<li><p><strong>Reading group</strong> - currently reading Statistical Rethinking by Richard McElreath, hybrid in Royal Fort House and on MS Teams, roughly every two weeks.</p></li>
+<li><p><strong>Today I Learned (TIL)</strong> <a href="https://github.com/JGIBristol/TIL">GitHub repo</a> – for making interesting things we talk about on Slack more permanent, with minimal fuss. See the ‘contributing TILs’ for instructions.</p></li>
+<li><p><strong>Data Science Handbook</strong> <a href="https://jgibristol.github.io/data-science-handbook/">GitHub website</a> – in development and contributions welcome!</p></li>
+</ul>
+</section>
+<section id="also-of-interest" class="level2">
+<h2 class="anchored" data-anchor-id="also-of-interest">Also of interest</h2>
+<ul>
+<li><p><strong>Data Ethics Club</strong> online <a href="https://dataethicsclub.com/">journal club</a> about doing data science ethically, every two weeks.</p></li>
+<li><p><strong>Alan Turing Institute</strong> <a href="https://bristol.ac.uk/golding/turing-institute/">liaison academics</a> linking the University of Bristol to the wider Turing network and interest groups, for example.</p></li>
+</ul>
 
 
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
