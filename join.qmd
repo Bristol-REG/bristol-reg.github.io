@@ -1,0 +1,37 @@
+---
+title: How to get involved with REG
+subtitle: Our main communication is via our Slack channel, `#bristol-reg`, on the UK RSE Slack instance.
+
+---
+
+## Join our Slack channel
+
+To join:
+
+1. [Sign up to the UK RSE Slack instance](https://ukrse.slack.com/signup?redir=%2Farchives%2FGUJK4P918%3Fname%3DGUJK4P918#/domain-signup).
+2. Once you have signed up, [email us for an invite to the `#bristol-reg` channel](mailto:ask-jgi@bristol.ac.uk?subject=I'd%20like%20to%20join%20REG).
+
+We’d like to encourage use of the Slack for peer-to-peer support (and cat photos!)
+
+The UK RSE slack also brings together the UK-wide RSE and friends community.
+If you're new, then there are lots of helpful channels on this Slack instance and it's a very active community.
+
+## Other ways to get involved
+
+* **Mailing list** [grp-ResearchEngineering](https://outlook.office.com/groups/groups.bristol.ac.uk/grp-ResearchEngineering/mail) which also has a group calendar for our meetings (and somewhere to store all the documents linked to below). We'll add you to this at the same time as the Slack channel.
+
+* **Group meetings** (optional) hybrid in Royal Fort House on the last Tuesday of every month, usually 3-4pm.
+
+* **Research computing training** for data science and RSE. [Self-led courses on GitHub](https://bristol-training.github.io/courses.html) plus [we run in-person and online courses during the year](https://bristol-training.github.io/upcoming.html). Volunteer helpers welcome!
+
+* **Reading group** - currently reading Statistical Rethinking by Richard McElreath, hybrid in Royal Fort House and on MS Teams, roughly every two weeks.
+
+* **Today I Learned (TIL)** [GitHub repo](https://github.com/JGIBristol/TIL) – for making interesting things we talk about on Slack more permanent, with minimal fuss. See the ‘contributing TILs’ for instructions.
+
+* **Data Science Handbook** [GitHub website](https://jgibristol.github.io/data-science-handbook/) – in development and contributions welcome!
+
+## Also of interest
+
+* **Data Ethics Club** online [journal club](https://dataethicsclub.com/) about doing data science ethically, every two weeks.
+
+* **Alan Turing Institute** [liaison academics](https://bristol.ac.uk/golding/turing-institute/) linking the University of Bristol to the wider Turing network and interest groups, for example.

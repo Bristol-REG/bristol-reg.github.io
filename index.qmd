@@ -1,36 +1,27 @@
 ---
-title: Research Engineering Group
+title: Research Engineering Group at the University of Bristol
 subtitle: The Research Engineering Group is a **community of practice** at the University of Bristol. It includes interdisciplinary data scientists, research software engineers, research infrastructure engineers, data engineers and friends.
-toc: true
-toc-location: left
+listing:
+  contents:
+    - path: join.qmd
+      title: Join our group
+      description: Join our Slack channel or get involved with our other activities.
+      image: assets/photo-team.jpg
+    - path: https://bristol-training.github.io
+      title: Training courses
+      description: We provide free training workshops to all University of Bristol staff and students.
+      image: assets/photo-training.jpg
+    - path: contact.qmd
+      title: Contact us
+      description: Find out more about what we do.
+      image: assets/contact-icon.png
+  type: grid
+  sort: false
+  id: page-links
+body-classes: hide-bar-after-lead
 ---
 
-We have over 30 members, including from the [JGI](https://www.bristol.ac.uk/golding/), [ACRC](https://www.bristol.ac.uk/acrc/), [Research IT](https://www.bristol.ac.uk/research-it/), [Bristol Centre for Supercomputing](https://isambard.ac.uk/), [LEAP digital health hub](https://leap-hub.ac.uk/), and embedded researchers across the University.
+:::{#page-links}
+:::
 
-## How to get involved
-
-Our main communication via the **Slack channel** [#bristol-reg](https://ukrse.slack.com/archives/GUJK4P918) on the UK RSE slack instance. If you aren’t a member then please [sign up to Slack](https://ukrse.slack.com/signup?redir=%2Farchives%2FGUJK4P918%3Fname%3DGUJK4P918#/domain-signup) and [email us](mailto:ask-jgi@bristol.ac.uk) for an invite to the channel. We’d like to encourage use of this for peer-support (and cat photos!) The UK RSE slack also brings together the UK-wide RSE + friends community. If you're new, then there are lots of helpful channels on this Slack instance and it's a very active community.
-
-We also have:
-
-* **Mailing list** [grp-ResearchEngineering](https://outlook.office.com/groups/groups.bristol.ac.uk/grp-ResearchEngineering/mail) which also has a group calendar for our meetings (and somewhere to store all the documents linked to below). We'll add you to this at the same time as the Slack channel.
-
-* **Group meetings** (optional) hybrid in Royal Fort House on the last Tuesday of every month, usually 3-4pm.
-
-* **Research computing training** for data science and RSE. [Self-led courses on GitHub](https://bristol-training.github.io/courses.html) plus [we run in-person and online courses during the year](https://bristol-training.github.io/upcoming.html). Volunteer helpers welcome!
-
-* **Reading group** - currently reading Statistical Rethinking by Richard McElreath, hybrid in Royal Fort House and on MS Teams, roughly every two weeks.
-
-* **Today I Learned (TIL)** [GitHub repo](https://github.com/JGIBristol/TIL) – for making interesting things we talk about on Slack more permanent, with minimal fuss. See the ‘contributing TILs’ for instructions.
-
-* **Data Science Handbook** [GitHub website](https://jgibristol.github.io/data-science-handbook/) – in development and contributions welcome!
-
-## Also from the JGI
-
-* **Data Ethics Club** online [journal club](https://dataethicsclub.com/) about doing data science ethically, every two weeks.
-
-* **Alan Turing Institute** [liaison academics](https://bristol.ac.uk/golding/turing-institute/) linking us to the wider Turing network and interest groups, for example.
-
-## Contact
-
-You can email us via <ask-jgi@bristol.ac.uk>. Include in your email that you're interested in joining REG.
+We have over 30 members, including from the [Jean Golding Institute](https://www.bristol.ac.uk/golding/), [Advanced Computing Research Centre](https://www.bristol.ac.uk/acrc/), [Research IT](https://www.bristol.ac.uk/research-it/), [Bristol Centre for Supercomputing](https://isambard.ac.uk/), [LEAP Digital Health Hub](https://leap-hub.ac.uk/), and embedded researchers across the University.
