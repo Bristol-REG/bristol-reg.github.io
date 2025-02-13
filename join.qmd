@@ -18,13 +18,13 @@ If you're new, then there are lots of helpful channels on this Slack instance an
 
 ## Other ways to get involved
 
-* **Mailing list** [grp-ResearchEngineering](https://outlook.office.com/groups/groups.bristol.ac.uk/grp-ResearchEngineering/mail) which also has a group calendar for our meetings (and somewhere to store all the documents linked to below). We'll add you to this at the same time as the Slack channel.
+* **Group meetings** hybrid in Royal Fort House on the last Tuesday of every month, usually 3-4pm.
 
-* **Group meetings** (optional) hybrid in Royal Fort House on the last Tuesday of every month, usually 3-4pm.
+* **Mailing list** [grp-ResearchEngineering](https://outlook.office.com/groups/groups.bristol.ac.uk/grp-ResearchEngineering/mail) which also has a group calendar for our meetings (and somewhere to store all the documents linked to below). We'll add you to this at the same time as the Slack channel.
 
 * **Research computing training** for data science and RSE. [Self-led courses on GitHub](https://bristol-training.github.io/courses.html) plus [we run in-person and online courses during the year](https://bristol-training.github.io/upcoming.html). Volunteer helpers welcome!
 
-* **Reading group** - currently reading Statistical Rethinking by Richard McElreath, hybrid in Royal Fort House and on MS Teams, roughly every two weeks.
+* **Reading group** - every month we review and discuss an article voted on by the group. These sessions are usually hybrid.
 
 * **Today I Learned (TIL)** [GitHub repo](https://github.com/JGIBristol/TIL) – for making interesting things we talk about on Slack more permanent, with minimal fuss. See the ‘contributing TILs’ for instructions.
 

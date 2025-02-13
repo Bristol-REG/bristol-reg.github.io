@@ -24,4 +24,12 @@ body-classes: hide-bar-after-lead
 :::{#page-links}
 :::
 
-We have over 30 members, including from the [Jean Golding Institute](https://www.bristol.ac.uk/golding/), [Advanced Computing Research Centre](https://www.bristol.ac.uk/acrc/), [Research IT](https://www.bristol.ac.uk/research-it/), [Bristol Centre for Supercomputing](https://isambard.ac.uk/), [LEAP Digital Health Hub](https://leap-hub.ac.uk/), and embedded researchers across the University.
+We have over 30 members, including from:
+
+* [Jean Golding Institute](https://www.bristol.ac.uk/golding/)
+* [Bristol Centre for Supercomputing](https://isambard.ac.uk/)
+* [IT Services](https://www.bristol.ac.uk/it-services/), including the [Advanced Computing Research Centre](https://www.bristol.ac.uk/acrc/) and [Research IT](https://www.bristol.ac.uk/research-it/)
+* [LEAP Digital Health Hub](https://leap-hub.ac.uk/)
+* and embedded researchers across the University.
+
+Many of our members are research-active, or actively work in areas that support research projects at the University.
