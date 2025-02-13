@@ -1,5 +1,15 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Engineering Group at the University of Bristol",
+    "section": "",
+    "text": "Join our group\n\n\nJoin our Slack channel or get involved with our other activities.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTraining courses\n\n\nWe provide free training workshops to all University of Bristol staff and students.\n\n\n\n\n\n\n\n\n\n\n\n\n\nContact us\n\n\nFind out more about what we do.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nWe have over 30 members, including from:\n\nJean Golding Institute\nBristol Centre for Supercomputing\nIT Services, including the Advanced Computing Research Centre and Research IT\nLEAP Digital Health Hub\nand embedded researchers across the University.\n\nMany of our members are research-active, or actively work in areas that support research projects at the University.",
+    "crumbs": [
+      "About our group"
+    ]
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contacts",
@@ -34,7 +44,7 @@
     "href": "join.html#other-ways-to-get-involved",
     "title": "How to get involved with REG",
     "section": "Other ways to get involved",
-    "text": "Other ways to get involved\n\nMailing list grp-ResearchEngineering which also has a group calendar for our meetings (and somewhere to store all the documents linked to below). We’ll add you to this at the same time as the Slack channel.\nGroup meetings (optional) hybrid in Royal Fort House on the last Tuesday of every month, usually 3-4pm.\nResearch computing training for data science and RSE. Self-led courses on GitHub plus we run in-person and online courses during the year. Volunteer helpers welcome!\nReading group - currently reading Statistical Rethinking by Richard McElreath, hybrid in Royal Fort House and on MS Teams, roughly every two weeks.\nToday I Learned (TIL) GitHub repo – for making interesting things we talk about on Slack more permanent, with minimal fuss. See the ‘contributing TILs’ for instructions.\nData Science Handbook GitHub website – in development and contributions welcome!",
+    "text": "Other ways to get involved\n\nGroup meetings hybrid in Royal Fort House on the last Tuesday of every month, usually 3-4pm.\nMailing list grp-ResearchEngineering which also has a group calendar for our meetings (and somewhere to store all the documents linked to below). We’ll add you to this at the same time as the Slack channel.\nResearch computing training for data science and RSE. Self-led courses on GitHub plus we run in-person and online courses during the year. Volunteer helpers welcome!\nReading group - every month we review and discuss an article voted on by the group. These sessions are usually hybrid.\nToday I Learned (TIL) GitHub repo – for making interesting things we talk about on Slack more permanent, with minimal fuss. See the ‘contributing TILs’ for instructions.\nData Science Handbook GitHub website – in development and contributions welcome!",
     "crumbs": [
       "Join our group"
     ]
@@ -47,16 +57,6 @@
     "text": "Also of interest\n\nData Ethics Club online journal club about doing data science ethically, every two weeks.\nAlan Turing Institute liaison academics linking the University of Bristol to the wider Turing network and interest groups, for example.",
     "crumbs": [
       "Join our group"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Research Engineering Group at the University of Bristol",
-    "section": "",
-    "text": "Join our group\n\n\nJoin our Slack channel or get involved with our other activities.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTraining courses\n\n\nWe provide free training workshops to all University of Bristol staff and students.\n\n\n\n\n\n\n\n\n\n\n\n\n\nContact us\n\n\nFind out more about what we do.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nWe have over 30 members, including from the Jean Golding Institute, Advanced Computing Research Centre, Research IT, Bristol Centre for Supercomputing, LEAP Digital Health Hub, and embedded researchers across the University.",
-    "crumbs": [
-      "About our group"
     ]
   }
 ]
