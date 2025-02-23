@@ -26,7 +26,7 @@ If you're new, then there are lots of helpful channels on this Slack instance an
 
 * **Reading group** - every month we review and discuss an article voted on by the group. These sessions are usually hybrid.
 
-* **Today I Learned (TIL)** [GitHub repo](https://github.com/JGIBristol/TIL) – for making interesting things we talk about on Slack more permanent, with minimal fuss. See the ‘contributing TILs’ for instructions.
+* **Today I Learned (TIL)** [GitHub repo](https://github.com/bristol-reg/TIL) – for making interesting things we talk about on Slack more permanent, with minimal fuss. See the ‘contributing TILs’ for instructions.
 
 * **Data Science Handbook** [GitHub website](https://jgibristol.github.io/data-science-handbook/) – in development and contributions welcome!
 
