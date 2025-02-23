@@ -1,1 +1,1 @@
-Sitemap: https://JGIBristol.github.io/REG/sitemap.xml
+Sitemap: https://Bristol-REG.github.io/bristol-reg.github.io/sitemap.xml
