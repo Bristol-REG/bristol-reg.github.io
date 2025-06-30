@@ -1,10 +1,40 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Research Engineering Group at the University of Bristol",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About REG",
     "section": "",
-    "text": "Join our group\n\n\nJoin our Slack channel or get involved with our other activities.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTraining courses\n\n\nWe provide free training workshops to all University of Bristol staff and students.\n\n\n\n\n\n\n\n\n\n\n\n\n\nContact us\n\n\nFind out more about what we do.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nWe have over 30 members, including from:\n\nJean Golding Institute\nBristol Centre for Supercomputing\nIT Services, including the Advanced Computing Research Centre and Research IT\nLEAP Digital Health Hub\nand embedded researchers across the University.\n\nMany of our members are research-active, or actively work in areas that support research projects at the University.",
+    "text": "The Research Engineering Group is a community of practice at the University of Bristol. It includes interdisciplinary data scientists, research software engineers, research infrastructure engineers, data engineers and friends.",
+    "crumbs": [
+      "About our group"
+    ]
+  },
+  {
+    "objectID": "about.html#what-we-do",
+    "href": "about.html#what-we-do",
+    "title": "About REG",
+    "section": "What we do",
+    "text": "What we do\nOur main ways of communicating are by:\n\nSlack channel, #bristol-reg, on the UK RSE Slack instance. We encourage use of the Slack for peer-to-peer support (and photos of pets!) The UK RSE slack also brings together the UK-wide RSE and friends community. If you’re new, then there are lots of helpful channels on this Slack instance and it’s a very active community.\nGroup meetings, hybrid in Royal Fort House on the last Tuesday of every month, usually 3-4pm.\nMailing list, which also has a group calendar for our meetings.",
+    "crumbs": [
+      "About our group"
+    ]
+  },
+  {
+    "objectID": "about.html#other-things-we-do",
+    "href": "about.html#other-things-we-do",
+    "title": "About REG",
+    "section": "Other things we do",
+    "text": "Other things we do\n\nReading group - every month we review and discuss an article voted on by the group. These sessions are usually hybrid.\nResearch computing training for data science and RSE. Self-led courses on GitHub plus we run in-person and online courses during the year. Volunteer helpers welcome!",
+    "crumbs": [
+      "About our group"
+    ]
+  },
+  {
+    "objectID": "about.html#also-of-interest",
+    "href": "about.html#also-of-interest",
+    "title": "About REG",
+    "section": "Also of interest",
+    "text": "Also of interest\n\nData Ethics Club online journal club about doing data science ethically, every two weeks.\nAlan Turing Institute liaison academics linking the University of Bristol to the wider Turing network and interest groups, for example.\nToday I Learned (TIL) GitHub repo – for making interesting things we talk about on Slack more permanent, with minimal fuss. See the ‘contributing TILs’ for instructions.\nData Science Handbook GitHub website – in development and contributions welcome!",
     "crumbs": [
       "About our group"
     ]
@@ -12,51 +42,41 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contacts",
+    "title": "Contacts for REG and joining instructions",
     "section": "",
-    "text": "You can email us via ask-jgi@bristol.ac.uk. Include in your email that you’re interested in joining REG.",
+    "text": "The Research Engineering Group is run by the team at the Jean Golding Institute.\nYou can contact the organisers by email: jgi-reseng@bristol.ac.uk.",
     "crumbs": [
-      "Contacts"
+      "Contacts and join"
     ]
   },
   {
-    "objectID": "join.html",
-    "href": "join.html",
-    "title": "How to get involved with REG",
+    "objectID": "contact.html#join-our-group",
+    "href": "contact.html#join-our-group",
+    "title": "Contacts for REG and joining instructions",
+    "section": "Join our group",
+    "text": "Join our group\nMembership of the group is open to anyone at the University of Bristol that considers themselves within the research engineering remit.\nTo join:\n\nSign up to the UK RSE Slack instance.\nOnce you have signed up, email us for an invite to the #bristol-reg channel and to be added to our mailing list.\n\nSo that we can introduce you to existing members, please consider including in your email:\n\nthat you’re interested in joining REG\nwhat you areas of interest are\nanything you’d like to get out of being in the group.",
+    "crumbs": [
+      "Contacts and join"
+    ]
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Membership of REG",
     "section": "",
-    "text": "To join:\n\nSign up to the UK RSE Slack instance.\nOnce you have signed up, email us for an invite to the #bristol-reg channel.\n\nWe’d like to encourage use of the Slack for peer-to-peer support (and cat photos!)\nThe UK RSE slack also brings together the UK-wide RSE and friends community. If you’re new, then there are lots of helpful channels on this Slack instance and it’s a very active community.",
+    "text": "We have over 30 members, including from:\n\nJean Golding Institute\nBristol Centre for Supercomputing\nIT Services, including the Advanced Computing Research Centre and Research IT\nLEAP Digital Health Hub\nand embedded researchers across the University.\n\nMany of our members are research-active, or actively work in areas that support research projects at the University.",
     "crumbs": [
-      "Join our group"
+      "Membership"
     ]
   },
   {
-    "objectID": "join.html#join-our-slack-channel",
-    "href": "join.html#join-our-slack-channel",
-    "title": "How to get involved with REG",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Engineering Group at the University of Bristol",
     "section": "",
-    "text": "To join:\n\nSign up to the UK RSE Slack instance.\nOnce you have signed up, email us for an invite to the #bristol-reg channel.\n\nWe’d like to encourage use of the Slack for peer-to-peer support (and cat photos!)\nThe UK RSE slack also brings together the UK-wide RSE and friends community. If you’re new, then there are lots of helpful channels on this Slack instance and it’s a very active community.",
+    "text": "About the group\n\n\nThe Research Engineering Group is a community of practice at the University of Bristol, providing peer support and training.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOur membership\n\n\nMany of our members are research-active, or actively work in areas that support research projects at the University.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContact us and join the group\n\n\nMembership of the group is open to anyone at the University of Bristol that considers themselves within the research engineering remit.\n\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "Join our group"
-    ]
-  },
-  {
-    "objectID": "join.html#other-ways-to-get-involved",
-    "href": "join.html#other-ways-to-get-involved",
-    "title": "How to get involved with REG",
-    "section": "Other ways to get involved",
-    "text": "Other ways to get involved\n\nGroup meetings hybrid in Royal Fort House on the last Tuesday of every month, usually 3-4pm.\nMailing list grp-ResearchEngineering which also has a group calendar for our meetings (and somewhere to store all the documents linked to below). We’ll add you to this at the same time as the Slack channel.\nResearch computing training for data science and RSE. Self-led courses on GitHub plus we run in-person and online courses during the year. Volunteer helpers welcome!\nReading group - every month we review and discuss an article voted on by the group. These sessions are usually hybrid.\nToday I Learned (TIL) GitHub repo – for making interesting things we talk about on Slack more permanent, with minimal fuss. See the ‘contributing TILs’ for instructions.\nData Science Handbook GitHub website – in development and contributions welcome!",
-    "crumbs": [
-      "Join our group"
-    ]
-  },
-  {
-    "objectID": "join.html#also-of-interest",
-    "href": "join.html#also-of-interest",
-    "title": "How to get involved with REG",
-    "section": "Also of interest",
-    "text": "Also of interest\n\nData Ethics Club online journal club about doing data science ethically, every two weeks.\nAlan Turing Institute liaison academics linking the University of Bristol to the wider Turing network and interest groups, for example.",
-    "crumbs": [
-      "Join our group"
+      "Research Engineering Group"
     ]
   }
 ]

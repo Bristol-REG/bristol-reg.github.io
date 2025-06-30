@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Bristol-REG.github.io/bristol-reg.github.io/index.html</loc>
-    <lastmod>2025-02-23T14:49:37.028Z</lastmod>
+    <loc>https://Bristol-REG.github.io/bristol-reg.github.io/about.html</loc>
+    <lastmod>2025-06-30T10:58:13.670Z</lastmod>
   </url>
   <url>
     <loc>https://Bristol-REG.github.io/bristol-reg.github.io/contact.html</loc>
-    <lastmod>2025-02-23T14:49:37.028Z</lastmod>
+    <lastmod>2025-06-30T10:58:13.671Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-REG.github.io/bristol-reg.github.io/join.html</loc>
-    <lastmod>2025-02-23T14:49:37.028Z</lastmod>
+    <loc>https://Bristol-REG.github.io/bristol-reg.github.io/members.html</loc>
+    <lastmod>2025-06-30T10:58:13.671Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Bristol-REG.github.io/bristol-reg.github.io/index.html</loc>
+    <lastmod>2025-06-30T10:58:13.671Z</lastmod>
   </url>
 </urlset>
