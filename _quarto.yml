@@ -10,16 +10,17 @@ website:
     pinned: true
   sidebar:
     contents:
-      - text: About our group
+      - text: Research Engineering Group
         href: index.qmd
-      - text: Join our group
-        href: join.qmd
-      - text: Training courses
-        href: https://bristol-training.github.io
-      - contact.qmd
+      - text: About our group
+        href: about.qmd
+      - text: Membership
+        href: members.qmd
+      - text: Contacts and join
+        href: contact.qmd
     pinned: true
   page-footer:
-    center: Supported by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/) © [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+    center: Organised by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/) © [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
 format:
   html:

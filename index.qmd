@@ -3,17 +3,17 @@ title: Research Engineering Group at the University of Bristol
 subtitle: The Research Engineering Group is a **community of practice** at the University of Bristol. It includes interdisciplinary data scientists, research software engineers, research infrastructure engineers, data engineers and friends.
 listing:
   contents:
-    - path: join.qmd
-      title: Join our group
-      description: Join our Slack channel or get involved with our other activities.
-      image: assets/photo-team.jpg
-    - path: https://bristol-training.github.io
-      title: Training courses
-      description: We provide free training workshops to all University of Bristol staff and students.
+    - path: about.qmd
+      title: About the group
+      description: The Research Engineering Group is a community of practice at the University of Bristol, providing peer support and training.
       image: assets/photo-training.jpg
+    - path: members.qmd
+      title: Our membership
+      description: Many of our members are research-active, or actively work in areas that support research projects at the University.
+      image: assets/photo-team.jpg
     - path: contact.qmd
-      title: Contact us
-      description: Find out more about what we do.
+      title: Contact us and join the group
+      description: Membership of the group is open to anyone at the University of Bristol that considers themselves within the research engineering remit.
       image: assets/contact-icon.png
   type: grid
   sort: false
@@ -23,13 +23,3 @@ body-classes: hide-bar-after-lead
 
 :::{#page-links}
 :::
-
-We have over 30 members, including from:
-
-* [Jean Golding Institute](https://www.bristol.ac.uk/golding/)
-* [Bristol Centre for Supercomputing](https://isambard.ac.uk/)
-* [IT Services](https://www.bristol.ac.uk/it-services/), including the [Advanced Computing Research Centre](https://www.bristol.ac.uk/acrc/) and [Research IT](https://www.bristol.ac.uk/research-it/)
-* [LEAP Digital Health Hub](https://leap-hub.ac.uk/)
-* and embedded researchers across the University.
-
-Many of our members are research-active, or actively work in areas that support research projects at the University.

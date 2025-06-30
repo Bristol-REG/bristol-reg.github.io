@@ -1,0 +1,28 @@
+---
+title: About REG
+---
+
+The Research Engineering Group is a community of practice at the University of Bristol. It includes interdisciplinary data scientists, research software engineers, research infrastructure engineers, data engineers and friends.
+
+## What we do
+
+Our main ways of communicating are by:
+
+- **Slack channel**, `#bristol-reg`, on the UK RSE Slack instance.
+  We encourage use of the Slack for peer-to-peer support (and photos of pets!)
+  The UK RSE slack also brings together the UK-wide RSE and friends community.
+  If you're new, then there are lots of helpful channels on this Slack instance and it's a very active community.
+- **Group meetings**, hybrid in Royal Fort House on the last Tuesday of every month, usually 3-4pm.
+- **Mailing list**, which also has a group calendar for our meetings.
+
+## Other things we do
+
+- **Reading group** - every month we review and discuss an article voted on by the group. These sessions are usually hybrid.
+- **Research computing training** for data science and RSE. [Self-led courses on GitHub](https://bristol-training.github.io/courses.html) plus [we run in-person and online courses during the year](https://bristol-training.github.io/upcoming.html). Volunteer helpers welcome!
+
+## Also of interest
+
+- **Data Ethics Club** online [journal club](https://dataethicsclub.com/) about doing data science ethically, every two weeks.
+- **Alan Turing Institute** [liaison academics](https://bristol.ac.uk/golding/turing-institute/) linking the University of Bristol to the wider Turing network and interest groups, for example.
+- **Today I Learned (TIL)** [GitHub repo](https://github.com/bristol-reg/TIL) – for making interesting things we talk about on Slack more permanent, with minimal fuss. See the ‘contributing TILs’ for instructions.
+- **Data Science Handbook** [GitHub website](https://jgibristol.github.io/data-science-handbook/) – in development and contributions welcome!

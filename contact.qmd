@@ -1,6 +1,22 @@
 ---
-title: Contacts
+title: Contacts for REG and joining instructions
 ---
 
-You can email us via [ask-jgi@bristol.ac.uk](mailto:ask-jgi@bristol.ac.uk?subject=I'd%20like%20to%20join%20REG).
-Include in your email that you're interested in joining REG.
+The Research Engineering Group is run by the team at the [Jean Golding Institute](https://www.bristol.ac.uk/golding/jgi-reseng).
+
+You can contact the organisers by email: <jgi-reseng@bristol.ac.uk>{.nobreak}.
+
+## Join our group
+
+Membership of the group is open to anyone at the University of Bristol that considers themselves within the [research engineering remit](about.qmd).
+
+To join:
+
+1. [Sign up to the UK RSE Slack instance](https://ukrse.slack.com/signup?redir=%2Farchives%2FGUJK4P918%3Fname%3DGUJK4P918#/domain-signup).
+2. Once you have signed up, [email us for an invite to the `#bristol-reg` channel and to be added to our mailing list](mailto:jgi-reseng@bristol.ac.uk?subject=I'd+like+to+join+REG).
+
+So that we can introduce you to existing members, please consider including in your email:
+
+- that you're interested in joining REG
+- what you areas of interest are
+- anything you'd like to get out of being in the group.
