@@ -40,6 +40,56 @@
     ]
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Engineering Group at the University of Bristol",
+    "section": "",
+    "text": "About the group\n\n\nThe Research Engineering Group is a community of practice at the University of Bristol, providing peer support and training.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOur membership\n\n\nMany of our members are research-active, or actively work in areas that support research projects at the University.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContact us and join the group\n\n\nMembership of the group is open to anyone at the University of Bristol that considers themselves within the research engineering remit.\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research Engineering Group"
+    ]
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Membership of REG",
+    "section": "",
+    "text": "Many of our members are research-active, or actively work in areas that support research projects at the University.",
+    "crumbs": [
+      "Membership"
+    ]
+  },
+  {
+    "objectID": "members.html#group-leads",
+    "href": "members.html#group-leads",
+    "title": "Membership of REG",
+    "section": "Group leads",
+    "text": "Group leads\n\n\n\n\n\n\nJames Thomas\nSenior Data Scientist\nJean Golding Institute\n\n\n\n\n\n\n\n\n\nRachel Tunnicliffe\nSenior Lecturer\nAtmospheric Chemistry Research Group\nSchool of Chemistry",
+    "crumbs": [
+      "Membership"
+    ]
+  },
+  {
+    "objectID": "members.html#activity-leads",
+    "href": "members.html#activity-leads",
+    "title": "Membership of REG",
+    "section": "Activity leads",
+    "text": "Activity leads\n\n\n\n\n\n\nHarry Mason, Reading Group lead\nSenior Research Associate\nBristol Medical School",
+    "crumbs": [
+      "Membership"
+    ]
+  },
+  {
+    "objectID": "members.html#group-members",
+    "href": "members.html#group-members",
+    "title": "Membership of REG",
+    "section": "Group members",
+    "text": "Group members\nWe have over 40 members, including from:\n\nJean Golding Institute\nBristol Centre for Supercomputing (BriCS)\nIT Services, including the Advanced Computing Research Centre and Research IT\nLEAP Digital Health Hub\nAtmospheric Chemistry Research Group (ACRG)\nBristol Composites Institute\nand other embedded researchers across the University.",
+    "crumbs": [
+      "Membership"
+    ]
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contacts for REG and joining instructions",
@@ -57,26 +107,6 @@
     "text": "Join our group\nMembership of the group is open to anyone at the University of Bristol that considers themselves within the research engineering remit.\nTo join:\n\nSign up to the UK RSE Slack instance.\nOnce you have signed up, email us for an invite to the #bristol-reg channel and to be added to our mailing list.\n\nSo that we can introduce you to existing members, please consider including in your email:\n\nthat you’re interested in joining REG\nwhat you areas of interest are\nanything you’d like to get out of being in the group.",
     "crumbs": [
       "Contacts and join"
-    ]
-  },
-  {
-    "objectID": "members.html",
-    "href": "members.html",
-    "title": "Membership of REG",
-    "section": "",
-    "text": "We have over 30 members, including from:\n\nJean Golding Institute\nBristol Centre for Supercomputing\nIT Services, including the Advanced Computing Research Centre and Research IT\nLEAP Digital Health Hub\nand embedded researchers across the University.\n\nMany of our members are research-active, or actively work in areas that support research projects at the University.",
-    "crumbs": [
-      "Membership"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Research Engineering Group at the University of Bristol",
-    "section": "",
-    "text": "About the group\n\n\nThe Research Engineering Group is a community of practice at the University of Bristol, providing peer support and training.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOur membership\n\n\nMany of our members are research-active, or actively work in areas that support research projects at the University.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContact us and join the group\n\n\nMembership of the group is open to anyone at the University of Bristol that considers themselves within the research engineering remit.\n\n\n\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Research Engineering Group"
     ]
   }
 ]
